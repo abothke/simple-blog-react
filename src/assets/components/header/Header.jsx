@@ -11,7 +11,7 @@ const Header = () => {
                 <Link to="/">Home</Link>
             </button>
             <button>
-                <Link to="/Blog">Blog</Link>
+                <Link to="/blog">Blog</Link>
             </button>
         </header>
         </>
